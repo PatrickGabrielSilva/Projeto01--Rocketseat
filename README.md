@@ -19,11 +19,11 @@ Este projeto é uma página de receita desenvolvida como parte do curso Full Sta
 - **CSS3**: Para a estilização e layout da página.
 - **Google Fonts**: Para a tipografia personalizada.
 
-## Como Utilizar
+## Imagem
 
-1. Clone o repositório para o seu ambiente local.
-2. Abra o arquivo `index.html` em um navegador web para visualizar a página de receita.
-3. Personalize o conteúdo e os estilos conforme necessário para atender às suas necessidades.
+![image](https://github.com/user-attachments/assets/da5978d0-8d26-4c82-bc64-20653e5c0d3d)
+
+
 
 ## Autor
 
